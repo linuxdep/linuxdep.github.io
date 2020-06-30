@@ -11,3 +11,6 @@ Der kleine hase Flitzer ist schwarz, hat zwei lange Ohren und ist ein Goldhase. 
   * von der Haselnuss
 * Trockenfutter
 
+Flitzer sagte:
+> Hatt Du Loch wie Sieb
+> Mutt Du aufschreiben!
